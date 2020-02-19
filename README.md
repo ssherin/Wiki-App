@@ -1,0 +1,1 @@
+A python program application for local wikipedia search
